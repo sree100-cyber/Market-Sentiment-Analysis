@@ -81,8 +81,6 @@ The following analyses were performed:
 5. Profit and loss distribution indicates that most trades produce small outcomes while a few produce larger gains or losses.
 
 ---
-## Analysis
-C:\Users\SREE\OneDrive\Desktop\data\plot_06_side_sentiment.png
 ## Summary
 
 This analysis explored the relationship between Bitcoin market sentiment and real trader behavior on Hyperliquid across multiple dimensions: profitability, win rate, trade volume, coin selection, buy/sell direction, and sentiment transitions.
